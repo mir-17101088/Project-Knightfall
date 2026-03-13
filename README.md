@@ -1,4 +1,4 @@
-                            **Knightfall Core Engine \- Documentation**
+                            *Knightfall Core Engine - Documentation*
 
 **Executive Summary:**
 
